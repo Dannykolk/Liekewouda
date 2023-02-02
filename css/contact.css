@@ -1,0 +1,17 @@
+body{font-family: 'Poppins', sans-serif; width: 80%; text-align: center; margin: auto;}
+header{text-align: center;height: 150px; width: 100%; font-size: 23px; font-weight: bold; background-color: rgb(1, 148, 185); color: white; margin: auto; border: 1px solid; border-radius: 20px; }
+h1{text-align: center; font: 40px;}
+ul a{list-style-type: none; color: white; text-decoration: none; margin-top: auto;}
+li{display: inline-block; height: 20px; width: 250px; padding:12px;  text-align: center;  color: white; background-color: rgb(168, 168, 168); border-radius: 20px; line-height: 15px; font-size: 15px;}
+
+#intro{ text-align: center; height: 100%; margin: auto;  border: 1px solid; width: 60%;}
+img{
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+  }
+#footer{height: 100px; width: 80%; font-size: 23px; font-weight: bold; background-color: rgb(1, 148, 185); color: white; position: absolute; bottom: 0; border-radius: 20px;}
+input[type="text"], input[type="email"], input[type="tel"], textarea, select, button{display: block;margin: 15px 0px; margin: auto; font-weight: bold; font-size: 23px;border-color: rgb(208, 211, 211); border-radius: 20px; padding: 10px; width: 300px;}
+form{margin: auto; vertical-align: middle; padding: 100px;}
+#contactformulier{width: 80%; margin: auto; padding-bottom: 20px;}
+button{color: white;}
