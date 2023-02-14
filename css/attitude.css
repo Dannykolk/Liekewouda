@@ -10,14 +10,15 @@ img{
     border: 1px dotted black;
     margin: 0px 0px 15px 20px;
   }
-#footer{
-  border-radius: 20px;
-  display: flex;
-  justify-content: center;
-  height: 100px;
-  width: 100%;
-  background-color:rgb(1, 148, 185);
-  margin-top: 300px;}
+  #footer{
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    background-color:rgb(1, 148, 185);
+    margin-top: 300px;}
   
 
 #attitude{ text-align: center; height: 100%; margin: auto; width: 60%;}
+#bamihap{text-align: center; height: 100%; margin: auto; width: 60%;}
